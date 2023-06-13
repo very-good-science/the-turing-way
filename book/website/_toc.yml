@@ -621,6 +621,24 @@ parts:
                 file: ethical-research/self-reflection/sr-resources
           - title: Ethical Considerations for Open Source Governance Models
             file: ethical-research/ethics-open-source-governance
+          - title: Data Hazards
+            file: ethical-research/data-hazards
+            sections:
+              - title: Introduction to Data Hazards 
+                file: ethical-research/data-hazards/data-hazards-intro
+              - title: How to use Data Hazards
+                file: ethical-research/data-hazards/how-to-use
+              - title: Case studies
+                file: ethical-research/data-hazards/case-studies
+                sections:
+                - title: "Organising a workshop: DERR symposium"
+                  file: ethical-research/data-hazards/case-studies/workshop-DERR
+                - title: Fitting Data Hazards into a PhD research lifecycle
+                  file: ethical-research/data-hazards/case-studies/phd-lifecycle
+              - title: Checklists
+                file: ethical-research/data-hazards/checklist.md
+              - title: Resources
+                file: ethical-research/data-hazards/resources.md
 
       # ===== Community Handbook ========================================
 
